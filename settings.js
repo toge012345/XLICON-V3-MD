@@ -50,15 +50,15 @@ global.location = process.env.GL_INFO || "United states, New York, Manhattan" //
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'B҉M҉F҉ ҉G҉A҉N҉G҉S҉' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '13038480418' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || '•.¸♡ 𝐓𝐎𝐆𝐄 𝐈𝐍𝐔𝐌𝐀𝐊𝐈 ♡¸.•' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@kenzo3146"
+global.websitex = process.env.YT_LINK || "https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://wa.me/13038480418"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
@@ -66,7 +66,7 @@ global.wm = process.env.GL_WM || "•.¸♡ 𝐓𝐎𝐆𝐄 𝐈𝐍𝐔𝐌�
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "B҉M҉F҉ ҉G҉A҉N҉G҉S҉"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "•.¸♡ 𝐓𝐎𝐆𝐄 𝐈𝐍𝐔𝐌𝐀𝐊𝐈 ♡¸.•"
 //________________________________________________________________________________________________________
